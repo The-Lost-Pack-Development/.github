@@ -1,4 +1,4 @@
-# Welcome to The Lost Pack Development!
+# [Welcome to The Lost Pack Development](https://lost-pack.xyz)!
 We are a development group that Develop for ourselves under the name of this group. We are planning on having a couple projects with us all together. 
 
 We develop discord bots, websites and more!
