@@ -4,6 +4,7 @@ We are a development group that Develop for ourselves under the name of this gro
 We develop discord bots, websites and more!
 
 Here are a couple repositories with bots, websites and other stuff we created:
-- [Our own moderation Discord bot](https://github.com/The-Lost-Pack-Development/discord-bot)
+- [Our own moderation Discord bot](https://github.com/The-Lost-Pack-Development/Lost-Pack-Discord-Bot)
+- [Our own website](https://github.com/The-Lost-Pack-Development/Lost-Pack.xyz)
 - [A clock website (Project)](https://github.com/The-Lost-Pack-Development/Clock-website)
 - [A Translator for binary code](https://github.com/The-Lost-Pack-Development/Binary-translator)
